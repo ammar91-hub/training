@@ -1,1 +1,1 @@
-https://sample-test-redirect-check.trycloudflare.com
+https://api.trycloudflare.com
