@@ -1,1 +1,1 @@
-https://pointed-mls-outlets-nearly.trycloudflare.com
+https://api.trycloudflare.com
